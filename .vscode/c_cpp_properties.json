@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include",
+                "D:/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include",
+                "D:/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed",
+                "D:/gitlearn/rt-thread-gitee/**",
+                "D:/gitlearn/DIY_projects_base_on_RT-Thread/**",
+                "D:/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "8.1",
+            "compilerPath": "D:\\VS\\\\VC/bin/cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-msvc-x64"
+        }
+    ],
+    "version": 4
+}

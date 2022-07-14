@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "webclient.h": "c",
+        "algorithm": "c"
+    }
+}
